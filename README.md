@@ -1,21 +1,5 @@
-<<<<<<< HEAD
-# eventsapp
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Event-App
 Event page 
->>>>>>> ad0dd896c05cb7cac68a5b83ed91e4c88b80cfa6
+
+![Screenshot (13)](https://user-images.githubusercontent.com/51218670/80273952-115e0680-86ec-11ea-9741-34c80714d705.png)
